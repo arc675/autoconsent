@@ -1,3 +1,27 @@
+# v16.38.0 (Sun Sep 06 2026)
+
+#### Rules
+
+- Rule update: fever-cookie-advice [#1558](https://github.com/duckduckgo/autoconsent/pull/1558) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: workday [#1557](https://github.com/duckduckgo/autoconsent/pull/1557) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: mco-consent [#1556](https://github.com/duckduckgo/autoconsent/pull/1556) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: socialfunders [#1555](https://github.com/duckduckgo/autoconsent/pull/1555) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: drouot-rgpd [#1554](https://github.com/duckduckgo/autoconsent/pull/1554) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: idxrcookies [#1553](https://github.com/duckduckgo/autoconsent/pull/1553) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: consent-flo [#1552](https://github.com/duckduckgo/autoconsent/pull/1552) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: cookiebot.be [#1551](https://github.com/duckduckgo/autoconsent/pull/1551) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: setupad [#1550](https://github.com/duckduckgo/autoconsent/pull/1550) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: mkdocs-material [#1549](https://github.com/duckduckgo/autoconsent/pull/1549) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: infomaniak-rgpd [#1548](https://github.com/duckduckgo/autoconsent/pull/1548) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+- Rule update: cookieyes [#1547](https://github.com/duckduckgo/autoconsent/pull/1547) ([@cursoragent](https://github.com/cursoragent) [@daxtheduck](https://github.com/daxtheduck))
+
+#### Authors: 2
+
+- Cursor Agent ([@cursoragent](https://github.com/cursoragent))
+- Dax ([@daxtheduck](https://github.com/daxtheduck))
+
+---
+
 # v16.37.0 (Sat Sep 05 2026)
 
 #### Rules
